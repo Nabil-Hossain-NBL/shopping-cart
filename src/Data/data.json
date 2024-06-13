@@ -15,19 +15,19 @@
     "id": 3,
     "name": "Sweatpants",
     "price": 24.99,
-    "image": "https://example.com/images/sweatpants.jpg"
+    "image": "https://assets-global.website-files.com/642fc428f0c0b942b1ba7a71/642fc9cd5e9c6b5efd29eba6_10.png"
   },
   {
     "id": 4,
     "name": "Notebook",
     "price": 7.99,
-    "image": "https://example.com/images/notebook.jpg"
+    "image": "https://assets-global.website-files.com/642fc428f0c0b942b1ba7a71/64305005f274d5f029f3bd6e_12.png"
   },
   {
     "id": 5,
     "name": "Headphones",
     "price": 49.99,
-    "image": "https://example.com/images/headphones.jpg"
+    "image": "https://assets-global.website-files.com/642fc428f0c0b942b1ba7a71/64304a22eb2e9171681084bf_he.png"
   },
   {
     "id": 6,
@@ -52,11 +52,5 @@
     "name": "Phone Case",
     "price": 16.99,
     "image": "https://example.com/images/phone-case.jpg"
-  },
-  {
-    "id": 10,
-    "name": "Lamp",
-    "price": 34.99,
-    "image": "https://example.com/images/lamp.jpg"
   }
 ]
