@@ -5,6 +5,7 @@ export default function SingleProduct({ item }) {
     state: { cart },
     dispatch,
   } = CartState();
+  // console.log(cart);
 
   return (
     <div className="card card-compact w-96 bg-base-100 shadow-xl p-0 rounded-none">
@@ -19,11 +20,29 @@ export default function SingleProduct({ item }) {
 
         <div className="card-actions justify-center">
           {cart.some((i) => i.id === item.id) ? (
-            <button className="btn btn-primary bg-red-600 hover:bg-red-700">
+            <button
+              onClick={() => {
+                dispatch({
+                  type: "REMOVE_FROM_CART",
+                  payload: item,
+                });
+              }}
+              className="btn btn-primary bg-red-600 hover:bg-red-700"
+            >
               Remove From Cart
             </button>
           ) : (
-            <button className="btn btn-primary">Add To Cart</button>
+            <button
+              onClick={() => {
+                dispatch({
+                  type: "ADD_TO_CART",
+                  payload: item,
+                });
+              }}
+              className="btn btn-primary"
+            >
+              Add To Cart
+            </button>
           )}
         </div>
       </div>

@@ -1,56 +1,56 @@
 [
   {
     "id": 1,
-    "name": "T-Shirt",
+    "name": "Feline Combat Glasses",
     "price": 19.99,
-    "image": "https://assets-global.website-files.com/642fc428f0c0b942b1ba7a71/6430547f5c315878aebd267f_gren-3.png"
-  },
-  {
-    "id": 2,
-    "name": "Coffee Mug",
-    "price": 9.99,
-    "image": "https://assets-global.website-files.com/642fc428f0c0b942b1ba7a71/642fc6e30d1ede73497f655c_11.png"
-  },
-  {
-    "id": 3,
-    "name": "Sweatpants",
-    "price": 24.99,
-    "image": "https://assets-global.website-files.com/642fc428f0c0b942b1ba7a71/642fc9cd5e9c6b5efd29eba6_10.png"
-  },
-  {
-    "id": 4,
-    "name": "Notebook",
-    "price": 7.99,
     "image": "https://assets-global.website-files.com/642fc428f0c0b942b1ba7a71/64305005f274d5f029f3bd6e_12.png"
   },
   {
-    "id": 5,
-    "name": "Headphones",
-    "price": 49.99,
+    "id": 2,
+    "name": "Purrtection Helmet",
+    "price": 9.99,
     "image": "https://assets-global.website-files.com/642fc428f0c0b942b1ba7a71/64304a22eb2e9171681084bf_he.png"
   },
   {
+    "id": 3,
+    "name": "Purrfect Camo Gear",
+    "price": 24.99,
+    "image": "https://assets-global.website-files.com/642fc428f0c0b942b1ba7a71/642fc6885d245dd2e789d27c_3.png"
+  },
+  {
+    "id": 4,
+    "name": "Scratch Sniper Rifle",
+    "price": 7.99,
+    "image": "https://assets-global.website-files.com/642fc428f0c0b942b1ba7a71/642fc9e994a7088808ad8934_vasd.png"
+  },
+  {
+    "id": 5,
+    "name": "Meowtary Grenade Harness",
+    "price": 49.99,
+    "image": "https://assets-global.website-files.com/642fc428f0c0b942b1ba7a71/6430547f5c315878aebd267f_gren-3.png"
+  },
+  {
     "id": 6,
-    "name": "Water Bottle",
+    "name": "Kitty Kevlar Cap",
     "price": 14.99,
-    "image": "https://example.com/images/water-bottle.jpg"
+    "image": "https://assets-global.website-files.com/642fc428f0c0b942b1ba7a71/642fc9cd5e9c6b5efd29eba6_10.png"
   },
   {
     "id": 7,
-    "name": "Backpack",
+    "name": "Cat-Eye Goggles",
     "price": 59.99,
-    "image": "https://example.com/images/backpack.jpg"
+    "image": "https://assets-global.website-files.com/642fc428f0c0b942b1ba7a71/642fc6e30d1ede73497f655c_11.png"
   },
   {
     "id": 8,
-    "name": "Book",
+    "name": "Whisker Warrior Gloves",
     "price": 12.99,
-    "image": "https://example.com/images/book.jpg"
+    "image": "https://assets-global.website-files.com/642fc428f0c0b942b1ba7a71/642fc72ba0adeb6c479a3f23_12123.png"
   },
   {
     "id": 9,
-    "name": "Phone Case",
+    "name": "Tactical Climbing Harnesses",
     "price": 16.99,
-    "image": "https://example.com/images/phone-case.jpg"
+    "image": "https://assets-global.website-files.com/642fc428f0c0b942b1ba7a71/642fc9b9a0adeb47509a7825_oinew.png"
   }
 ]
